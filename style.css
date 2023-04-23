@@ -94,7 +94,7 @@ ul {
 
 .main-navigation .menu li a {
     display: flex;
-    transition: 0.3s;
+    transition: 5s;
     position: relative;
     justify-content: center;
     align-items: center;
